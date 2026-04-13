@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@theme {
+  --color-primary: #5F7A5E;
+  --color-secondary: #B5654A;
+  --color-accent: #C4882B;
+  --color-background: #FAF6EF;
+  --color-surface: #F7F2EB;
+  --color-text: #2C2218;
+  --color-muted: #7A6E62;
+
+  --font-heading: "Libre Baskerville", ui-sans-serif, system-ui, sans-serif;
+  --font-body: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
